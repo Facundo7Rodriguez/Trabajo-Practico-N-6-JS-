@@ -19,5 +19,20 @@ for (let i=0; i=6; i++){
 //#endregion
 
 //#region 
-
+function Suma(N){
+     let resultado = N+N;
+    console.log(resultado);
+}
+function Resta(N){
+    let resultado = N-N;
+   console.log(resultado);
+}
+function Multiplicacion(N){
+    let resultado = N*N;
+   console.log(resultado);
+}
+function Division(N){
+    let resultado = N/N;
+   console.log(resultado);
+}
 //#endregion
